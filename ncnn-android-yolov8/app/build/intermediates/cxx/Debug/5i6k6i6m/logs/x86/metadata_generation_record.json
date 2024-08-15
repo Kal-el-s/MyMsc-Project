@@ -1,0 +1,842 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 373966634
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\.cxx\\Debug\\5i6k6i6m\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -806962519
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1034419654
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\.cxx\\Debug\\5i6k6i6m\\x86\u0027",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -846935463
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\.cxx\\Debug\\5i6k6i6m\\x86\u0027",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1963262821
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Administrator\\\\Desktop\\\\code\\\\ncnn-android-yolov8\\\\app\\\\src\\\\main\\\\jni\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Administrator\\\\Desktop\\\\code\\\\ncnn-android-yolov8\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5i6k6i6m\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Administrator\\\\Desktop\\\\code\\\\ncnn-android-yolov8\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5i6k6i6m\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Administrator\\\\Desktop\\\\code\\\\ncnn-android-yolov8\\\\app\\\\.cxx\\\\Debug\\\\5i6k6i6m\\\\x86\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 135545590
+  },
+  {
+    "level_": 0,
+    "message_": "\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1079762173
+  },
+  {
+    "level_": 0,
+    "message_": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2038089181
+  },
+  {
+    "level_": 0,
+    "message_": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1322704572
+  },
+  {
+    "level_": 0,
+    "message_": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 431921053
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/src/main/jni\",\n  \"buildDirectory\": \"C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 154400788
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1854802914
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dC:\\\\Users\\\\Administrator\\\\Desktop\\\\code\\\\ncnn-android-yolov8\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5i6k6i6m\\\\obj\\\\x86\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003dC:\\\\Users\\\\Administrator\\\\Desktop\\\\code\\\\ncnn-android-yolov8\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5i6k6i6m\\\\obj\\\\x86\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\"\n  ]\n}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -136480018
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\\n  C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt:1 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -895362755
+  },
+  {
+    "level_": 2,
+    "message_": "CMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\r\n  An old version of CMake is being used that cannot automatically detect\r\n  compiler attributes.  Compiler identification is being bypassed.  Some\r\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\r\n  CMake\u0027s built-in compiler identification.\r\nCall Stack (most recent call first):\r\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\r\n  C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\r\n  CMakeLists.txt:1 (project)\r\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -960743300
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1060721906
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 274704646
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 25416601
+  },
+  {
+    "level_": 2,
+    "message_": "CMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\r\n  An old version of CMake is being used that cannot automatically detect\r\n  compiler attributes.  Compiler identification is being bypassed.  Some\r\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\r\n  CMake\u0027s built-in compiler identification.\r\nCall Stack (most recent call first):\r\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\r\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\r\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\r\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 888422242
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2029143652
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 843583806
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -730813178
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1387752330
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compiler ABI info",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -851984786
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 16952401
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1714662971
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compiler ABI info - done",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -278935283
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1375248401
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compile features",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1944460633
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2117826149
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1047012615
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1341361517
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -513797686
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compile features - done",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 320854978
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1408180114
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 888095334
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -565231647
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 708044766
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -521691226
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -487364874
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compiler ABI info",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -342062354
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 791428760
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 944222021
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compiler ABI info - done",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -120329075
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 711556497
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compile features",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -948584231
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1623060228
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 172837836
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1118561997
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1477466813
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -12385206
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compile features - done",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1059502014
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at CMakeLists.txt:6 (find_package):\\n  By not providing \\\"FindOpenCV.cmake\\\" in CMAKE_MODULE_PATH this project has\\n  asked CMake to find a package configuration file provided by \\\"OpenCV\\\", but\\n  CMake did not find one.\\n\\n  Could not find a package configuration file provided by \\\"OpenCV\\\" with any\\n  of the following names:\\n\\n    OpenCVConfig.cmake\\n    opencv-config.cmake\\n\\n  Add the installation prefix of \\\"OpenCV\\\" to CMAKE_PREFIX_PATH or set\\n  \\\"OpenCV_DIR\\\" to a directory containing one of the above files.  If \\\"OpenCV\\\"\\n  provides a separate development package or SDK, be sure it has been\\n  installed.\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1532877495
+  },
+  {
+    "level_": 3,
+    "message_": "CMake Error at C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt:6 (find_package):\r\n  By not providing \"FindOpenCV.cmake\" in CMAKE_MODULE_PATH this project has\r\n  asked CMake to find a package configuration file provided by \"OpenCV\", but\r\n  CMake did not find one.\r\n\r\n  Could not find a package configuration file provided by \"OpenCV\" with any\r\n  of the following names:\r\n\r\n    OpenCVConfig.cmake\r\n    opencv-config.cmake\r\n\r\n  Add the installation prefix of \"OpenCV\" to CMAKE_PREFIX_PATH or set\r\n  \"OpenCV_DIR\" to a directory containing one of the above files.  If \"OpenCV\"\r\n  provides a separate development package or SDK, be sure it has been\r\n  installed.\r\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1306,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1617755356
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 523332849
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring incomplete, errors occurred!\\nSee also \\\"C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeOutput.log\\\".\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1486805383
+  },
+  {
+    "level_": 0,
+    "message_": "Configuring incomplete, errors occurred!\r\nSee also \"C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeOutput.log\".",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1159035650
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"errorMessage\":\"Configuration failed.\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1304066807
+  },
+  {
+    "level_": 3,
+    "message_": "Configuration failed.",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1306,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -250663539
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin).\r\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt:1 (project)\n\n\nCheck for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCheck for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\nDetecting C compiler ABI info\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nDetecting C compiler ABI info - done\nDetecting C compile features\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nDetecting C compile features - done\nCheck for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCheck for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\nDetecting CXX compiler ABI info\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nDetecting CXX compiler ABI info - done\nDetecting CXX compile features\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCMake Warning at C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nDetecting CXX compile features - done\nCMake Error at CMakeLists.txt:6 (find_package):\n  By not providing \"FindOpenCV.cmake\" in CMAKE_MODULE_PATH this project has\n  asked CMake to find a package configuration file provided by \"OpenCV\", but\n  CMake did not find one.\n\n  Could not find a package configuration file provided by \"OpenCV\" with any\n  of the following names:\n\n    OpenCVConfig.cmake\n    opencv-config.cmake\n\n  Add the installation prefix of \"OpenCV\" to CMAKE_PREFIX_PATH or set\n  \"OpenCV_DIR\" to a directory containing one of the above files.  If \"OpenCV\"\n  provides a separate development package or SDK, be sure it has been\n  installed.\n\n\nConfiguring incomplete, errors occurred!\nSee also \"C:/Users/Administrator/Desktop/code/ncnn-android-yolov8/app/.cxx/Debug/5i6k6i6m/x86/CMakeFiles/CMakeOutput.log\".\n",
+    "file_": "C:\\Users\\Administrator\\Desktop\\code\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1214202035
+  }
+]
